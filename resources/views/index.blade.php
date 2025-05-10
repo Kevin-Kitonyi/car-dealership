@@ -253,15 +253,18 @@
 									</div>
 									<div class="featured-model-info">
 										<p>
-											model: 2017
-											<span class="featured-mileage-span">Mileage: 90,000km</span> 
+											<span class="featured-make-span">Make: Bmw</span> 
+											<span class="featured-model-span">Model: 6-series</span>
 											<span class="featured-color-span">Color: Black</span>
-											 Transmission: automatic
+											<span class="featured-mileage-span">Mileage: 90,000km</span> 
+											<span class="featured-fuel-type-span">Fuel-Type: Petrol</span>
+											<span class="featured-transmission-span">Transmission: Automatic</span>
+											<span class="featured-year-span">Year: 2017</span>
 										</p>
 									</div>
 								</div>
 								<div class="featured-cars-txt">
-									<h2><a href="#">BMW 6-series gran coupe</a></h2>
+									<h2><a href="#"><span>BMW 6-series gran coupe</span></a></h2>
 								</div>
 							</div>
 						</div>
@@ -273,15 +276,18 @@
 									</div>
 									<div class="featured-model-info">
 										<p>
-											model: 2017
-											<span class="featured-mileage-span">Mileage: 50,000km</span> 
-											<span class="featured-color-span">Color: Red</span>
-											 Transmission: automatic
+										    <span class="featured-make-span">Make: Chevrolet</span>
+											<span class="featured-model-span">Model: Camaro</span>
+											<span class="featured-color-span">Color: Black</span>
+											<span class="featured-mileage-span">Mileage: 90,000km</span> 
+											<span class="featured-fuel-type-span">Fuel-Type: Petrol</span>
+											<span class="featured-transmission-span">Transmission: Automatic</span>
+											<span class="featured-year-span">Year:2016</span>
 										</p>
 									</div>
 								</div>
 								<div class="featured-cars-txt">
-									<h2><a href="#">chevrolet camaro <span>wmv20</span></a></h2>
+									<h2><a href="#"><span>chevrolet camaro</span></a></h2>
 								</div>
 							</div>
 						</div>
@@ -293,35 +299,18 @@
 									</div>
 									<div class="featured-model-info">
 										<p>
-											model: 2017
-											<span class="featured-mileage-span">Mileage: 11,000km</span> 
+										    <span class="featured-make-span">Make: Lamborghini</span>
+											<span class="featured-model-span">Model: v520</span> 
 											<span class="featured-color-span">Color: Blue</span>
-											 Transmission: automatic
+											<span class="featured-mileage-span">Mileage: 90,000km</span> 
+											<span class="featured-fuel-type-span">Fuel-Type: Petrol</span>
+											<span class="featured-transmission-span">Transmission: Automatic</span>
+											<span class="featured-year-span">Year: 2018</span>
 										</p>
 									</div>
 								</div>
 								<div class="featured-cars-txt">
-									<h2><a href="#">lamborghini <span>v520</span></a></h2>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-4 col-sm-6">
-							<div class="single-featured-cars">
-								<div class="featured-img-box">
-									<div class="featured-cars-img">
-										<img src="assets/images/featured-cars/fc3.png" alt="cars">
-									</div>
-									<div class="featured-model-info">
-										<p>
-											model: 2017
-											<span class="featured-mileage-span">Mileage: 11,000km</span> 
-											<span class="featured-color-span">Color: Blue</span>
-											 Transmission: automatic
-										</p>
-									</div>
-								</div>
-								<div class="featured-cars-txt">
-									<h2><a href="#">lamborghini <span>v520</span></a></h2>
+									<h2><a href="#"><span>lamborghini v520</span></a></h2>
 								</div>
 							</div>
 						</div>
@@ -332,22 +321,17 @@
 		</section><!--/.featured-cars-->
 		<!--featured-cars end -->
 
-		<!-- clients-say strat -->
-		<section id="clients-say"  class="clients-say">
+		<!-- why-choose-us-->
+		<section id="why-us"  class="why-us">
 			<div class="container">
 				<div class="section-header">
-					<h2>what our clients say</h2>
+					<h2>why choose us</h2>
 				</div><!--/.section-header-->
 				<div class="row">
 					<div class="owl-carousel testimonial-carousel">
 						<div class="col-sm-3 col-xs-12">
 							<div class="single-testimonial-box">
 								<div class="testimonial-description">
-									<div class="testimonial-info">
-										<div class="testimonial-img">
-											<img src="assets/images/clients/c1.png" alt="image of clients person" />
-										</div><!--/.testimonial-img-->
-									</div><!--/.testimonial-info-->
 									<div class="testimonial-comment">
 										<p>
 											Sed ut pers unde omnis iste natus error sit voluptatem accusantium dolor laudan rem aperiam, eaque ipsa quae ab illo inventore verit. 
@@ -363,11 +347,6 @@
 						<div class="col-sm-3 col-xs-12">
 							<div class="single-testimonial-box">
 								<div class="testimonial-description">
-									<div class="testimonial-info">
-										<div class="testimonial-img">
-											<img src="assets/images/clients/c2.png" alt="image of clients person" />
-										</div><!--/.testimonial-img-->
-									</div><!--/.testimonial-info-->
 									<div class="testimonial-comment">
 										<p>
 											Sed ut pers unde omnis iste natus error sit voluptatem accusantium dolor laudan rem aperiam, eaque ipsa quae ab illo inventore verit. 
@@ -383,11 +362,6 @@
 						<div class="col-sm-3 col-xs-12">
 							<div class="single-testimonial-box">
 								<div class="testimonial-description">
-									<div class="testimonial-info">
-										<div class="testimonial-img">
-											<img src="assets/images/clients/c3.png" alt="image of clients person" />
-										</div><!--/.testimonial-img-->
-									</div><!--/.testimonial-info-->
 									<div class="testimonial-comment">
 										<p>
 											Sed ut pers unde omnis iste natus error sit voluptatem accusantium dolor laudan rem aperiam, eaque ipsa quae ab illo inventore verit. 

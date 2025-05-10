@@ -335,7 +335,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 --------------------------------------*/
 .new-cars{
     background: #f8f9fb;
-    padding:172px 0 120px;
+    padding:172px 0 10px;
 }
 .new-cars-content{
     padding-top:96px;
@@ -356,6 +356,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 .welcome-btn.new-cars-btn {
     width: 176px;
     margin-top: 22px;
+    margin-left: 30%;
 }
 /*.new-cars-txt*/
 
@@ -376,7 +377,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
         6. Featured-cars
 --------------------------------------*/
 .featured-cars{
-    padding:112px 0 120px;
+    padding:112px 0 10px;
 }
 .featured-cars-content{padding-top:96px;}
 
@@ -392,23 +393,31 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     height: 250px;
     border-bottom: 1px solid #dadfe9;
 }
-.featured-model-info{padding:12px 7px;}
+.featured-model-info{
+    padding:12px 7px;
+}
 .featured-model-info p {
     font-size: 12px;
+    font-weight: 800;
     color: #262a33;
     text-transform: capitalize;
 }
+.featured-make-span{display: inline-block;margin:0 10px;}
+.featured-model-span{display: inline-block;margin:0 10px;}
+.featured-color-span{display: inline-block;margin:0 10px;}
 .featured-mileage-span{display: inline-block;margin:0 10px;}
-.featured-color-span{display: inline-block;margin-right: 10px;}
-.featured-cars-txt{margin:21px 0 47px;}
-.featured-cars-txt h2 a{font-size: 16px;margin-bottom: 15px;}
+.featured-fuel-type-span{display: inline-block;margin:0 10px;}
+.featured-transmission-span{display: inline-block;margin:0 10px;}
+.featured-year-span{display: inline-block;margin:0 10px;}
+.featured-cars-txt{margin:21px 0 10px;}
+.featured-cars-txt h2 a{font-size: 16px;color:darkred;margin-bottom: 20px;}
 .featured-cars-txt h2 a span{text-transform: uppercase;}
 /*.single-featured-cars*/
 
 /*-------------------------------------       
-        7. Clients-say 
+        7. Why choose us
 --------------------------------------*/
-.clients-say{padding:115px 0 80px;background: #f8f9fb;}
+.why-us{padding:115px 0 80px;background: #f8f9fb;}
 
 /*single-testimonial-box */
 .single-testimonial-box  {
@@ -424,30 +433,11 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 }
 
 /*testimonial-description*/
-.clients-say .testimonial-carousel .col-sm-3,
-.clients-say .testimonial-carousel .col-xs-12{
+.why-us .testimonial-carousel .col-sm-3,
+.why-us .testimonial-carousel .col-xs-12{
     width:100%;
     height:auto;
 }
-/* testimonial-info */
-.testimonial-img {
-    margin-right: 5px;
-    border-radius:50%;
-    -webkit-transition: .3s; 
-    -moz-transition:.3s; 
-    -ms-transition:.3s; 
-    -o-transition:.3s;
-    transition: .3s;
-}
-.testimonial-person h2 a,.testimonial-person h4 {
-    font-size: 16px;
-    color: #5e6778;
-    font-weight: 600;
-}
-.testimonial-person h4{
-    margin-top: 10px;
-}/* testimonial-info */
-
 
 /* testimonial-comment */
 .testimonial-comment p {
@@ -467,11 +457,11 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 }
 
 /*owl carousel*/
-.clients-say .owl-carousel .owl-stage {
+.why-us .owl-carousel .owl-stage {
     position: relative;
     padding: 100px 0 40px;
 }
-.clients-say .owl-carousel .owl-item img {
+.why-us .owl-carousel .owl-item img {
     display: block;
     width: 70px;
     height: 70px;
